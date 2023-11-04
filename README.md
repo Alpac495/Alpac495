@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=black"> &nbsp;
 <img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat&logo=reactrouter&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/greensock-88CE02?style=flat&logo=greensock&logoColor=white"> &nbsp;
-<img src="https://img.shields.io/badge/jstl-FF0000?style=flat&logo=jstllogoColor=white"> &nbsp;
 
 </div>
 
