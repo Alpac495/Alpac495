@@ -20,9 +20,7 @@ Here are some ideas to get you started:
   
 <h3>💎 PHOTOFOLIO</h3>
 <a href="https://www.notion.so/photofolio-af75042bfe00490988a0cf1a47e42110?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-<h3>📬 BLOG & SNS</h1>
-<a href="https://www.notion.so/my-name-is-Sang-Hyuk-5995b4ab5c0448539c698da2bd0bd612?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> &nbsp;
-<a href="[https://boysz.atlassian.net/wiki/people/712020:41111421-d2f0-4860-a749-b3e5f9b6d738](https://boysz.atlassian.net/wiki/spaces/PM/pages/1835009/d.)" target="_blank"><img src="https://img.shields.io/badge/confluence-172B4D?style=flat-square&logo=confluence&logoColor=white"/></a> &nbsp;
+
 
 <hr/>
 </div>
@@ -88,6 +86,7 @@ Here are some ideas to get you started:
 <hr/>
 
 </div>
+
 
 <h2>BACKJOON</h2>
 
