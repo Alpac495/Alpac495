@@ -70,23 +70,6 @@ Here are some ideas to get you started:
 </div>
 <hr/>
 
-<div align="center">
-
-# 🧑🏻‍💻 Project
-## Semi Project
-##### 
-<h2>📕 Spring Boot를 통한 웹프로그래밍 프로젝트 과제 수행</h2>
-
-## Final Project
-
-<h4>📕 골프 사이트이다</h4>
-
-<div align="center">
-<br/>
-<hr/>
-
-</div>
-
 
 <h2>BACKJOON</h2>
 
